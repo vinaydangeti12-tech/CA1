@@ -1,3 +1,8 @@
+"""
+Mukesh Mukkara (24226432)
+File: modelling.py
+Purpose: Chained multi-output and hierarchical modelling workflows.
+"""
 from model.randomforest import RandomForest
 from modelling.data_model import Data
 from Config import Config

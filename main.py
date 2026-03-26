@@ -1,3 +1,8 @@
+"""
+Mukesh Mukkara (24226432)
+File: main.py
+Purpose: End-to-end pipeline control and execution flow.
+"""
 from preprocess import *
 from embeddings import *
 from modelling.modelling import *

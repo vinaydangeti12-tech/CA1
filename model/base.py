@@ -1,3 +1,8 @@
+"""
+Mukesh Mukkara (24226432)
+File: base.py
+Purpose: Model interface for training, prediction, and evaluation.
+"""
 from abc import ABC, abstractmethod
 
 import pandas as pd

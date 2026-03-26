@@ -1,3 +1,8 @@
+"""
+Mukesh Mukkara (24226432)
+File: data_model.py
+Purpose: Data split and class filtering logic for modelling workflows.
+"""
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split

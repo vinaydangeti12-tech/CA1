@@ -1,3 +1,8 @@
+"""
+Mukesh Mukkara (24226432)
+File: randomforest.py
+Purpose: RandomForest model implementation for classification tasks.
+"""
 import numpy as np
 import pandas as pd
 import warnings
